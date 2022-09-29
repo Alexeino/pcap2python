@@ -1,0 +1,10 @@
+{
+    "5":"E-RABSetup",
+    "9":"InitialContextSetup",
+    "11":"DownlinkNASTransport",
+    "12":"InitialUEMessage",
+    "13":"UplinkNASTransport",
+    "18":"UEContextReleaseRequest",
+    "22":"UECapibilityInfoIndication",
+    "23":"UEContextRelease" 
+}
